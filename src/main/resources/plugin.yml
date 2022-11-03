@@ -1,0 +1,10 @@
+name: Minigame
+version: '${project.version}'
+main: de.lecuutex.boatbattle.BoatBattle
+api-version: 1.18
+authors: [ yidnl ]
+commands:
+  config:
+  start:
+  test:
+  kit:
